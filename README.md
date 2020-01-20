@@ -5,7 +5,7 @@
 Php를 이용하여 푸시전송을 위한 서버기능 구축, 사이트에서 본문과 제목을 작성하고 이미지 사용 여부를 체크하여 푸시전송  
 이때 서버DB에서 필요한 토큰값과 플랫폼정보를 가져와 해당 플랫폼에맞게 분기하여 payload 방식을 선택 후 전송  
 
-<img src="https://user-images.githubusercontent.com/48575996/72696479-a8607300-3b7f-11ea-8308-190ad21d32d5.png" width="90%"></img>(http://nobles1030.cafe24.com/fcmindex.php)
+[<img src="https://user-images.githubusercontent.com/48575996/72696479-a8607300-3b7f-11ea-8308-190ad21d32d5.png" width="90%"></img>](http://nobles1030.cafe24.com/fcmindex.php)
 
 ## 사용 방법
 
